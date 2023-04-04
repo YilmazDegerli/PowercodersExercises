@@ -1,0 +1,11 @@
+welcome the game.
+You are in a big trouble because you have lost your boy in train. The train has three main compartmants and each compartmants has three parts. If you want to find your poor boy you have to go one of this part of compartmants. But dont be sad, we will help you to find your boy via our instructions. You have only three rights to find your boy's exact place. When you find your son you have to move him to finish-room. At the end of the game you have to send your history to us. So we can check your steps.
+
+Useful CLI commands
+ls:for listing all files and folders
+cat: read the files
+cd .. : go to the previous folder(parent)
+mv : move the files or folders to another folders
+cd foldername: go to the that folder
+
+
