@@ -1,0 +1,41 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 20px;
+}
+h2 {
+    display:flex;
+    place-items: center;
+}
+
+h3 {
+    text-decoration:double;
+    text-decoration-color: blueviolet;
+}
+li {
+    font-size: 0.5em;
+}
+
+a /* all span nested in a tag. / a + span a dan sonraki ilk span/ a, span tum a lar ve tum span lar/ a ~ span  / a > span a nin icinde span */ {
+    color: red;
+    height:20rem;
+    width: 100px; ;
+    font-size:18px; /*diger ölcü birimleri: vw - 2em - vh - auto - ch en mantiklisi rem i kullanmak*/
+    transition: color linear 0.5s;
+
+
+} /* whole thing is CSS rule. "a" is here selector. "color" is property. "red" is value. Inside the curly brackets is declaration block. */
+
+a:hover {
+    color:blue;
+}
+
+section {
+    font-size: 1em;
+    font-weight: lighter;
+}
+
+
+
