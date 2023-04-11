@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+html, body{
+    height: 150%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+}
+header {
+    background: red;
+    color: #fff;
+    text-align:center;
+    padding: 20px;
+}
+main{
+    background: gray;
+    flex-grow: 1;
+    padding: 10px;
+    line-height: 1;
+    margin: 5rem 2rem 15rem 2rem;
+}
+footer {
+    background: red;
+    color: #fff;
+    text-align:center;
+    padding: 20px;
+    position: sticky;
+    bottom: 0px;
+}
