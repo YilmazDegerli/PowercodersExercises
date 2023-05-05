@@ -1,5 +1,0 @@
-firstly we get input which assign as "ageCurrent" from user for "What is your age?"
-then we used this input in while loop. If it's not number it's asked agaim and again. If it's number we can pass for the second input.
-we get input which assign as "ageRetirement" from user for "At what age would you like to retire?"
-then we used this input in while loop. If it's not number or it's smaller than "ageCurrent" it's asked again and again. If it's number and greater than "ageCurrent", we can pass for the calculations.
-Finally we can alert our outputs.

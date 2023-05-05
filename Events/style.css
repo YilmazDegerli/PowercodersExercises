@@ -1,0 +1,7 @@
+.result-list{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    list-style: none;
+}
