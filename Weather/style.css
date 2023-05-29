@@ -1,0 +1,19 @@
+html {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+body {
+    display: grid;
+    height:25%;
+    place-items: center;
+}
+span {
+    color: green;
+}
+.cold {
+    color: blue;
+}
+.hot {
+    color: red;
+}

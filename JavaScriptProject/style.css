@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(163, 245, 229);
+    background-color: rgb(161, 161, 245);
 }
 
 nav {
@@ -22,14 +22,18 @@ nav button {
 img {
     height: 25rem;
 }
+/*
+img:hover {
+    opacity: 0.5;
+    width: 30rem;
+    height: 30rem;
+}
+*/
 .imgEffect {
   opacity: 0.5;
 }
 
 .information {
-    text-align:left;
+    text-align: center;
     margin: 2rem;
-}
-*{
-    list-style: none;
 }
